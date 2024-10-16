@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.794bfd41.css",
+    "main.js": "/static/js/main.ac9c4e3a.js",
+    "static/js/453.2d9f93c1.chunk.js": "/static/js/453.2d9f93c1.chunk.js",
+    "static/media/gpay-main-banner.png": "/static/media/gpay-main-banner.png",
+    "static/media/bsnl.png": "/static/media/bsnl.a7f5435269f871c65876.png",
+    "static/media/airtel.png": "/static/media/airtel.01e54a2a07f28a15b0dd.png",
+    "static/media/footer.png": "/static/media/gpayfooter.11f558d98dc0e11b50d8.webp",
+    "static/media/jio.png": "/static/media/jio.ba0c979f46eb86a21fe7.png",
+    "static/media/smalljio.png": "/static/media/gpaylogo.a859e7ad6e3a2b75843f.png",
+    "index.html": "/index.html",
+    "main.794bfd41.css.map": "/static/css/main.794bfd41.css.map",
+    "main.ac9c4e3a.js.map": "/static/js/main.ac9c4e3a.js.map",
+    "453.2d9f93c1.chunk.js.map": "/static/js/453.2d9f93c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794bfd41.css",
+    "static/js/main.ac9c4e3a.js"
+    
+  ]
+}
