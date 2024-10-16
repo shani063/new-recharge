@@ -10846,27 +10846,31 @@
                                                                                         children: "100/day"
                                                                                     })]
                                                                         })]
-                                                    }), (0,
-                                                        We.jsx)("div", {
-                                                            className: "mt-5",
-                                                            children: (0,
-                                                                We.jsx)("button", {
-                                                                    onClick: () => o(279),
-                                                                    className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
-                                                                    children: "Recharge"
-                                                                })
-                                                        }),
-
+                                                    }),
                                                 (0, We.jsx)("img", {
                                                     src: "/static/images/netflix.svg", // Update with your image path
                                                     alt: "Netflix",
-                                                    className: "w-1/4 h-auto" // Adjust width and height as needed
+                                                    className: "w-1/4 h-1/10" // Adjust width and height as needed
                                                 }),
                                                 (0, We.jsx)("img", {
                                                     src: "/static/images/amazonprime.svg", // Update with your image path
                                                     alt: "Prime Video",
-                                                    className: "w-1/4 h-auto" // Adjust width and height as needed
+                                                    className: "w-1/4 h-1/10" // Adjust width and height as needed
                                                 }),
+
+
+
+                                                (0,
+                                                    We.jsx)("div", {
+                                                        className: "mt-5",
+                                                        children: (0,
+                                                            We.jsx)("button", {
+                                                                onClick: () => o(279),
+                                                                className: "bg-blue-500 py-2 w-full text-[13px] rounded-full font-bold text-white",
+                                                                children: "Recharge"
+                                                            })
+                                                    })
+
 
                                                 ]
                                             }), (0,
