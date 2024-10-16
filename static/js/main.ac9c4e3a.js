@@ -10860,7 +10860,7 @@
                                                         (0, We.jsx)("img", {
                                                             src: "/static/images/amazonprime.svg", // Image path
                                                             alt: "Prime Video",
-                                                            className: "w-16 h-16" // Adjusted size (you can change the values as needed)
+                                                            className: "w-16 h-4" // Adjusted size (you can change the values as needed)
                                                         }),
                                                         // Add more images as needed
                                                     ]
