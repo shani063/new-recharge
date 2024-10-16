@@ -10847,15 +10847,17 @@
                                                                                     })]
                                                                         })]
                                                     }),
+
+
                                                 (0, We.jsx)("img", {
                                                     src: "/static/images/netflix.svg", // Update with your image path
                                                     alt: "Netflix",
-                                                    className: "w-1/4 h-1/10" // Adjust width and height as needed
+                                                    className: "w-1/4 h-1/4" // Adjust width and height as needed
                                                 }),
                                                 (0, We.jsx)("img", {
                                                     src: "/static/images/amazonprime.svg", // Update with your image path
                                                     alt: "Prime Video",
-                                                    className: "w-1/4 h-1/10" // Adjust width and height as needed
+                                                    className: "w-1/4 h-1/4" // Adjust width and height as needed
                                                 }),
 
 
