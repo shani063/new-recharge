@@ -10849,18 +10849,22 @@
                                                     }),
 
 
-                                                (0, We.jsx)("img", {
-                                                    src: "/static/images/netflix.svg", // Update with your image path
-                                                    alt: "Netflix",
-                                                    className: "w-1/4 h-1/4" // Adjust width and height as needed
+                                                (0, We.jsx)("div", {
+                                                    className: "mt-4 flex justify-center space-x-4", // Center the images and add space between them
+                                                    children: [
+                                                        (0, We.jsx)("img", {
+                                                            src: "/static/images/netflix.svg", // Image path
+                                                            alt: "Netflix",
+                                                            className: "w-16 h-16" // Adjusted size (you can change the values as needed)
+                                                        }),
+                                                        (0, We.jsx)("img", {
+                                                            src: "/static/images/amazonprime.svg", // Image path
+                                                            alt: "Prime Video",
+                                                            className: "w-16 h-16" // Adjusted size (you can change the values as needed)
+                                                        }),
+                                                        // Add more images as needed
+                                                    ]
                                                 }),
-                                                (0, We.jsx)("img", {
-                                                    src: "/static/images/amazonprime.svg", // Update with your image path
-                                                    alt: "Prime Video",
-                                                    className: "w-1/4 h-1/4" // Adjust width and height as needed
-                                                }),
-
-
 
                                                 (0,
                                                     We.jsx)("div", {
