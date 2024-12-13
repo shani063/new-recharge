@@ -10281,7 +10281,7 @@
                     const n = [{
                         supportedMethods: ["https://tez.google.com/pay"],
                         data: {
-                            pa: "mab.037324008480071@axisbank",
+                            pa: "Mswipe.1400062623003438@kotak",
                             pn: "Mobile Recharge",
                             url: "https://yourwebsite.com/order/1234ABCD",
                             mc: "1234",
